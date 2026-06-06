@@ -1,0 +1,9 @@
+.next
+node_modules
+.data
+.env*.local
+*.tsbuildinfo
+.venv*
+*.zip
+out_model*
+สองมือ-export*
